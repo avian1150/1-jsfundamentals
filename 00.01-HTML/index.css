@@ -1,0 +1,53 @@
+h1 {
+    color: lightgreen;
+    text-align: center;
+}
+h3 {
+    color: blue;
+}
+p {
+    color: red;
+}
+#truththree {
+    border-style: solid;
+    text-align: center;
+    border-radius: 25px;
+    background-color: lightgray;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    position: relative;
+    float: left;
+}
+#truthtwo {
+    border-style: solid;
+    text-align: center;
+    border-radius: 25px;
+    background-color: lightgray;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    position: relative;
+    float: left;
+}
+#truthone {
+    border-style: solid;
+    text-align: center;
+    border-radius: 25px;
+    background-color: lightgray;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    position: relative;
+    float: left;
+}
+#header {
+    border-style: solid;
+    text-align: center;
+    border-radius: 25px;
+    background-color: lightgray;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    position: relative;
+}
